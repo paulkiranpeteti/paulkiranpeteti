@@ -3,7 +3,7 @@
 
 <h3 align="center" >Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/paul-kiran-peteti-4b023b226/" target="blank">
+  <a href="https://linkedin.com/in/paul-kiran-peteti-4b023b226/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paul-kiran-peteti-4b023b226/" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -15,19 +15,19 @@
 
 <h3 align="center" >My Coding Profiles:</h3>
 <p align="center">
-   <a href="https://www.codechef.com/users/https://www.codechef.com/users/klu_2100031927" target="blank">
+   <a href="https://www.codechef.com/users/klu_2100031927" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/klu_2100031927" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/h2100031927" target="blank">
+  <a href="https://www.hackerrank.com/h2100031927" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/h2100031927" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/https://codeforces.com/profile/2100031927" target="blank">
+  <a href="https://codeforces.com/profile/2100031927" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/2100031927" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/https://leetcode.com/klu_2100031927/" target="blank">
+  <a href="https://www.leetcode.com/klu_2100031927/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/klu_2100031927/" height="30" width="40" />
   </a>
 </p>
